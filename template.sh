@@ -3,7 +3,7 @@ mkdir -p research
 
 #file:
 touch src/__init__.py
-touch src/helper
+touch src/helper.py
 touch src/prompt.py
 touch .env
 touch setup.py
