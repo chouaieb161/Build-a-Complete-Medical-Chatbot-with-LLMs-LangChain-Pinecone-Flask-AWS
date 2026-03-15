@@ -2,7 +2,6 @@
 
 A production-ready, end-to-end **Generative AI Medical Chatbot** that answers natural language medical queries by intelligently retrieving information from a medical book PDF. Built with LangChain, a **local Ollama Llama 3.2 model**, HuggingFace embeddings, Pinecone vector database, and deployable on AWS via a fully automated CI/CD pipeline.
 
-> ⚠️ **Medical Disclaimer:** This chatbot is for **informational purposes only** and should **not** be used as a substitute for professional medical advice. Always consult a qualified healthcare provider for diagnosis and treatment.
 
 ---
 
